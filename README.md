@@ -1,2 +1,1 @@
-# Learning
-Records my learning notes
+# Learning: This is my learning summary
